@@ -1,0 +1,168 @@
+AI Resume and Job Description Matcher - Comparison Report
+=========================================================
+
+Generated: 2026-10-15 22:36
+
+NOTICE: This tool is for decision support only. It does not make hiring or rejection decisions. A resume alone cannot prove a candidate's complete abilities, so please have a qualified human review the results before making any employment decision.
+
+Section 1: Resume Analysis Summary
+----------------------------------
+
+- Skills identified in the resume: 10
+- Education entries: 1
+- Experience entries: 1
+- Projects: 2
+- Certifications: 2
+- Required skills in the job description: 7
+- Documented skill coverage: 6 of 7 required skills are evidenced in the resume.
+
+Section 2: Extracted Candidate Skills
+-------------------------------------
+
+- Python
+- Flask
+- SQL
+- MySQL
+- REST APIs
+- HTML
+- CSS
+- JavaScript
+- Git
+- Basic Machine Learning
+
+Section 3: Education
+--------------------
+
+- Bachelor of Engineering in Computer Science, ABC Engineering College, 2025
+
+Section 4: Experience
+---------------------
+
+- Python Development Intern at ABC Technologies (3 months): Developed Python scripts, assisted with debugging application issues, worked with SQL databases, and collaborated with team members.
+
+Section 5: Relevant Projects and Certifications
+-----------------------------------------------
+
+Projects:
+- Student Management System: Developed a student management application using Python, Flask, and MySQL. Implemented CRUD operations to manage student records.
+- Weather Forecast Application: Created a weather application using Python and a weather API to display weather information based on the user's city.
+
+Certifications:
+- Python Programming Fundamentals
+- Introduction to Machine Learning
+
+Section 6: Job Requirements
+---------------------------
+
+Required skills:
+- Python
+- Flask
+- Django
+- SQL
+- MySQL
+- REST API
+- Git
+
+Preferred skills:
+- HTML
+- CSS
+- JavaScript
+- Machine Learning
+- Cloud Computing
+
+Required experience:
+- 0-2 years of experience in Python development
+
+Educational requirements:
+- Bachelor's degree in Computer Science, Information Technology, or a related field
+
+Relevant certifications:
+- Not specified
+
+Section 7: Skill Comparison Table
+---------------------------------
+
+| Skill | Type | Status | Evidence |
+| --- | --- | --- | --- |
+| Python | Required | Evidenced in the resume | Listed in technical skills, internship, projects, and certifications |
+| Flask | Required | Evidenced in the resume | Listed in technical skills and used in Student Management System project |
+| Django | Required | Not evidenced in the resume | Not evidenced in the resume. |
+| SQL | Required | Evidenced in the resume | Listed in technical skills and internship experience |
+| MySQL | Required | Evidenced in the resume | Listed in technical skills and used in Student Management System project |
+| REST API | Required | Evidenced in the resume | Listed as REST APIs in technical skills and used in Weather Forecast Application |
+| Git | Required | Evidenced in the resume | Listed under technical skills |
+| HTML | Preferred | Evidenced in the resume | Listed under technical skills |
+| CSS | Preferred | Evidenced in the resume | Listed under technical skills |
+| JavaScript | Preferred | Evidenced in the resume | Listed under technical skills |
+| Machine Learning | Preferred | Partially supported | Listed as Basic Machine Learning in technical skills and Introduction to Machine Learning certification |
+| Cloud Computing | Preferred | Not evidenced in the resume | Not evidenced in the resume. |
+
+Section 8: Matching Required Skills
+-----------------------------------
+
+- Python - Listed in technical skills, internship, projects, and certifications
+- Flask - Listed in technical skills and used in Student Management System project
+- SQL - Listed in technical skills and internship experience
+- MySQL - Listed in technical skills and used in Student Management System project
+- REST API - Listed as REST APIs in technical skills and used in Weather Forecast Application
+- Git - Listed under technical skills
+
+Section 9: Missing or Unevidenced Required Skills
+-------------------------------------------------
+
+- Django - Not evidenced in the resume.
+
+Note: 'Not evidenced' does not mean the candidate lacks the skill; it may simply be missing from the resume.
+
+Section 10: Partially Supported Skills
+--------------------------------------
+
+- Machine Learning - Listed as Basic Machine Learning in technical skills and Introduction to Machine Learning certification
+
+Section 11: Matching Preferred Skills
+-------------------------------------
+
+- HTML - Listed under technical skills
+- CSS - Listed under technical skills
+- JavaScript - Listed under technical skills
+
+Section 12: Skills Requiring Verification
+-----------------------------------------
+
+- None identified
+
+Tip: partially supported and unevidenced skills should also be confirmed with the candidate.
+
+Section 13: Documented Skill-Match Percentage
+---------------------------------------------
+
+Documented skill-match percentage: 85.7%
+
+Formula: (Number of evidenced required skills / Total number of required skills) x 100
+Calculation: (6 / 7) x 100
+
+This percentage represents documented skill coverage only. It is NOT a measure of the candidate's overall ability, suitability, or probability of being hired.
+
+Section 14: Explanation of the Comparison
+-----------------------------------------
+
+- Each required and preferred skill was compared with evidence found in the resume text.
+- The percentage is calculated by Python from the evidence statuses, not invented by the AI.
+- Partially supported skills are not counted as evidenced in the percentage.
+- Education and experience requirements are listed beside the candidate's details above for human review; they are not scored.
+- Names, photos, contact details and demographic characteristics were not used.
+- Skills not found in the resume are labelled 'Not evidenced in the resume', not as absent.
+
+Section 15: Suggested Follow-Up Questions
+-----------------------------------------
+
+1. Do you have experience with Django that is not described in your resume? Please describe where and how you used it.
+2. Can you describe how deeply you have used Machine Learning (project scope, duration, your role)?
+3. Do you have experience with Cloud Computing that is not described in your resume? Please describe where and how you used it.
+4. The role asks for: 0-2 years of experience in Python development. Can you walk us through your relevant experience?
+5. Is there any other relevant experience, project, or training that is not shown in your resume?
+
+Section 16: Responsible Use Notice
+----------------------------------
+
+This tool is for decision support only. It does not make hiring or rejection decisions. A resume alone cannot prove a candidate's complete abilities, so please have a qualified human review the results before making any employment decision.
